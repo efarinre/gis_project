@@ -1,0 +1,400 @@
+Area Code,Area Name,Total,United Kingdom,Non-United Kingdom,European Union,European Union EU14,European Union EU8,European Union EU2,European Union Other
+K02000001,United Kingdom,"41,331","33,613","7,703","2,936","1,207","1,171",494,64
+E92000001,England,"34,811","27,782","7,018","2,608","1,078","1,001",472,57
+E12000001,North East,"1,637","1,513",124,46,25,14,4,2
+E06000047,  County Durham13,324,312,12,9,5,3,c,c
+E06000005,  Darlington,64,58,6,3,1,1,1,.
+E06000001,  Hartlepool,56,54,2,1,1,0~,c,.
+E06000002,  Middlesbrough,88,72,16,5,0~,2,2,c
+E06000057,  Northumberland14,183,176,7,4,3,.,c,c
+E06000003,  Redcar and Cleveland,81,77,4,2,1,c,.,1
+E06000004,  Stockton-on-Tees,121,112,9,2,1,1,.,.
+E11000007,  Tyne and Wear (Met County),720,653,67,22,13,7,1,c
+E08000037,    Gateshead,128,117,11,4,2,2,.,.
+E08000021,    Newcastle upon Tyne,200,163,37,11,8,2,c,c
+E08000022,    North Tyneside,127,121,6,3,1,1,c,c
+E08000023,    South Tyneside,90,86,5,1,1,c,.,.
+E08000024,    Sunderland,174,166,8,3,1,2,c,.
+E12000002,North West,"4,496","3,919",577,200,73,99,26,3
+E06000008,  Blackburn with Darwen,91,74,17,4,1,3,.,.
+E06000009,  Blackpool,82,77,5,3,1,2,0~,0~
+E06000049,  Cheshire East15,224,200,24,11,2,8,c,.
+E06000050,  Cheshire West and Chester16,204,191,13,8,5,3,.,.
+E06000006,  Halton,78,74,4,2,1,1,1,c
+E06000007,  Warrington,130,116,15,8,3,5,c,.
+E10000006,  Cumbria,289,268,21,10,2,6,1,c
+E07000026,    Allerdale,56,54,3,1,c,c,.,.
+E07000027,    Barrow-in-Furness,40,38,2,c,c,c,.,.
+E07000028,    Carlisle,65,58,7,4,c,3,c,c
+E07000029,    Copeland,40,38,2,c,c,.,.,.
+E07000030,    Eden,31,29,2,c,.,c,c,.
+E07000031,    South Lakeland,58,52,6,2,c,2,.,.
+E11000001,  Greater Manchester (Met County),"1,786","1,456",330,84,38,34,12,c
+E08000001,    Bolton,177,141,36,7,4,3,c,.
+E08000002,    Bury,115,100,15,4,1,2,1,.
+E08000003,    Manchester,388,261,127,22,13,7,2,.
+E08000004,    Oldham,143,119,25,6,2,2,2,.
+E08000005,    Rochdale,133,106,27,7,3,3,1,c
+E08000006,    Salford,164,127,37,13,4,7,3,.
+E08000007,    Stockport,176,163,13,7,4,2,1,.
+E08000008,    Tameside,140,124,16,5,2,3,c,.
+E08000009,    Trafford,146,126,20,4,2,2,.,.
+E08000010,    Wigan,203,188,15,9,3,3,2,c
+E10000017,  Lancashire,723,660,63,27,8,14,5,c
+E07000117,    Burnley,53,47,6,3,1,c,2,.
+E07000118,    Chorley,69,64,5,c,c,.,.,.
+E07000119,    Fylde,45,44,c,c,c,.,.,.
+E07000120,    Hyndburn,49,44,4,c,c,c,.,.
+E07000121,    Lancaster,90,86,5,c,.,c,.,.
+E07000122,    Pendle,53,43,10,4,c,3,c,.
+E07000123,    Preston,89,73,16,7,c,3,2,.
+E07000124,    Ribble Valley,36,35,c,.,.,.,.,.
+E07000125,    Rossendale,42,39,3,3,c,2,.,.
+E07000126,    South Ribble,65,60,5,3,.,3,.,.
+E07000127,    West Lancashire,69,65,4,3,2,c,.,c
+E07000128,    Wyre,62,60,2,1,c,c,c,.
+E11000002,  Merseyside (Met County),888,803,86,44,12,24,7,1
+E08000011,    Knowsley,93,88,5,3,1,2,.,c
+E08000012,    Liverpool,333,283,50,24,6,13,5,c
+E08000014,    Sefton,162,148,15,10,2,6,1,c
+E08000013,    St Helens,110,103,7,4,1,2,1,.
+E08000015,    Wirral,191,182,9,4,2,1,.,.
+E12000003,Yorkshire and The Humber ,"3,380","2,949",431,176,57,91,25,3
+E06000011,  East Riding of Yorkshire,193,179,14,8,5,3,1,.
+E06000010,"  Kingston upon Hull, City of",169,144,25,13,2,10,1,.
+E06000012,  North East Lincolnshire,96,87,9,5,1,2,1,0~
+E06000013,  North Lincolnshire,103,93,10,5,1,3,1,.
+E06000014,  York,135,119,16,7,4,2,1,c
+E10000023,  North Yorkshire,352,329,22,12,5,5,c,c
+E07000163,    Craven,32,30,2,1,c,c,.,.
+E07000164,    Hambleton,50,47,3,2,1,.,.,c
+E07000165,    Harrogate,92,83,10,5,3,2,.,.
+E07000166,    Richmondshire,30,29,c,c,c,.,.,.
+E07000167,    Ryedale,31,29,2,c,.,c,.,.
+E07000168,    Scarborough,60,59,1,c,.,.,.,c
+E07000169,    Selby,56,53,3,3,c,2,c,.
+E11000003,  South Yorkshire (Met County),881,772,109,52,17,21,13,1
+E08000016,    Barnsley,153,139,14,12,2,5,4,c
+E08000017,    Doncaster,186,166,21,14,2,7,4,1
+E08000018,    Rotherham,161,150,11,6,1,4,c,c
+E08000019,    Sheffield,381,317,64,21,11,5,5,.
+E11000006,  West Yorkshire (Met County),"1,452","1,226",226,75,23,46,5,c
+E08000032,    Bradford,327,255,72,21,2,18,c,.
+E08000033,    Calderdale,130,120,10,3,1,2,.,.
+E08000034,    Kirklees,271,233,38,11,1,8,1,c
+E08000035,    Leeds,516,429,86,30,16,11,3,.
+E08000036,    Wakefield,208,188,20,10,2,8,c,.
+E12000004,East Midlands,"2,944","2,453",490,229,53,131,40,5
+E06000015,  Derby,161,126,35,16,4,10,1,.
+E06000016,  Leicester,236,122,114,32,7,12,11,1
+E06000018,  Nottingham,226,161,64,22,7,12,3,c
+E06000017,  Rutland,20,19,1,c,.,.,.,c
+E10000007,  Derbyshire,482,457,25,15,7,7,.,c
+E07000032,    Amber Valley,77,73,3,3,2,c,.,.
+E07000033,    Bolsover,49,45,4,3,c,2,.,.
+E07000034,    Chesterfield,65,61,5,3,1,2,.,.
+E07000035,    Derbyshire Dales,40,40,c,c,.,c,.,.
+E07000036,    Erewash,70,66,4,c,c,c,.,.
+E07000037,    High Peak,58,56,3,2,2,.,.,.
+E07000038,    North East Derbyshire,58,56,2,c,.,.,.,c
+E07000039,    South Derbyshire,64,60,4,2,c,1,.,c
+E10000018,  Leicestershire ,422,369,53,21,7,12,1,c
+E07000129,    Blaby,60,54,6,3,c,2,.,.
+E07000130,    Charnwood,117,96,21,7,2,5,c,.
+E07000131,    Harborough,54,49,5,3,2,1,.,.
+E07000132,    Hinckley and Bosworth,67,63,4,c,c,c,.,.
+E07000133,    Melton,30,26,3,2,c,2,.,c
+E07000134,    North West Leicestershire,63,58,5,2,1,.,c,.
+E07000135,    Oadby and Wigston,33,24,8,3,1,1,.,.
+E10000019,  Lincolnshire,442,398,44,37,7,28,2,c
+E07000136,    Boston,41,28,13,12,c,11,.,.
+E07000137,    East Lindsey,80,76,4,2,c,1,.,.
+E07000138,    Lincoln,65,56,8,7,2,4,.,c
+E07000139,    North Kesteven,64,61,4,3,c,2,.,c
+E07000140,    South Holland,55,46,9,9,c,7,c,.
+E07000141,    South Kesteven,83,78,5,4,2,2,c,.
+E07000142,    West Lindsey,54,52,2,2,c,.,c,.
+E10000021,  Northamptonshire,456,357,99,58,6,37,15,c
+E07000150,    Corby,46,30,16,15,c,12,2,c
+E07000151,    Daventry,49,44,5,4,.,4,c,.
+E07000152,    East Northamptonshire,55,53,2,c,c,.,.,.
+E07000153,    Kettering,61,50,11,4,.,2,2,.
+E07000154,    Northampton,145,95,50,26,2,17,7,.
+E07000155,    South Northamptonshire,53,49,4,3,1,c,c,.
+E07000156,    Wellingborough,46,36,10,5,c,1,3,.
+E10000024,  Nottinghamshire ,498,443,55,28,7,14,7,c
+E07000170,    Ashfield,81,77,4,3,c,2,.,c
+E07000171,    Bassetlaw,67,55,12,8,c,5,3,.
+E07000172,    Broxtowe,69,56,13,4,3,c,1,.
+E07000173,    Gedling,72,64,8,4,c,3,.,.
+E07000174,    Mansfield,66,62,4,3,c,c,2,.
+E07000175,    Newark and Sherwood,73,65,8,4,1,2,c,c
+E07000176,    Rushcliffe,69,63,6,1,c,c,.,.
+E12000005,West Midlands,"3,610","2,962",648,225,62,108,50,5
+E06000019,"  Herefordshire, County of",109,97,12,9,2,4,2,c
+E06000051,  Shropshire17,182,169,13,7,3,1,3,c
+E06000021,  Stoke-on-Trent,159,135,24,11,3,4,4,0~
+E06000020,  Telford and Wrekin,110,96,14,8,1,5,1,.
+E10000028,  Staffordshire ,524,477,47,25,5,13,6,c
+E07000192,    Cannock Chase,62,59,3,2,c,.,c,.
+E07000193,    East Staffordshire,71,60,11,9,.,5,4,.
+E07000194,    Lichfield,60,53,7,c,.,c,.,.
+E07000195,    Newcastle-under-Lyme,82,73,9,2,c,c,.,.
+E07000196,    South Staffordshire,64,62,2,2,2,.,.,.
+E07000197,    Stafford,82,73,9,4,c,3,.,c
+E07000198,    Staffordshire Moorlands,57,54,4,2,c,2,.,.
+E07000199,    Tamworth,47,43,3,3,c,2,c,.
+E10000031,  Warwickshire,342,280,62,37,11,17,8,.
+E07000218,    North Warwickshire,37,35,2,1,.,1,.,.
+E07000219,    Nuneaton and Bedworth,78,63,15,5,1,2,2,.
+E07000220,    Rugby,65,48,17,11,2,7,2,.
+E07000221,    Stratford-on-Avon,71,62,9,9,3,4,2,.
+E07000222,    Warwick,90,71,19,11,5,3,3,.
+E11000005,  West Midlands (Met County),"1,837","1,391",445,113,33,54,24,2
+E08000025,    Birmingham,731,508,223,46,17,20,8,c
+E08000026,    Coventry,246,169,76,23,5,13,5,c
+E08000027,    Dudley,192,178,13,4,c,3,2,.
+E08000028,    Sandwell,205,152,53,15,3,8,3,1
+E08000029,    Solihull,128,110,18,6,3,2,1,c
+E08000030,    Walsall,171,146,25,9,2,4,2,.
+E08000031,    Wolverhampton,164,129,35,10,3,4,3,.
+E10000034,  Worcestershire,347,317,29,15,3,10,1,1
+E07000234,    Bromsgrove,56,53,4,2,1,c,c,.
+E07000235,    Malvern Hills,44,41,3,.,.,.,.,.
+E07000236,    Redditch,51,46,6,3,.,3,.,.
+E07000237,    Worcester,66,59,8,4,c,2,c,c
+E07000238,    Wychavon,72,65,7,5,c,3,.,c
+E07000239,    Wyre Forest,57,55,3,1,c,c,.,.
+E12000006,East,"3,771","3,128",642,298,104,141,47,6
+E06000055,  Bedford18,108,83,25,15,5,9,1,c
+E06000056,  Central Bedfordshire19,178,152,26,12,5,6,.,1
+E06000032,  Luton,139,75,64,21,4,12,5,.
+E06000031,  Peterborough,124,86,38,24,4,17,3,c
+E06000033,  Southend-on-Sea,112,93,19,7,4,3,.,c
+E06000034,  Thurrock,109,80,29,14,3,7,3,c
+E10000003,  Cambridgeshire,402,318,84,32,15,13,3,.
+E07000008,    Cambridge,85,46,39,11,8,2,c,.
+E07000009,    East Cambridgeshire,51,44,7,2,c,c,.,.
+E07000010,    Fenland,61,56,6,4,.,4,.,.
+E07000011,    Huntingdonshire,108,92,16,6,2,3,2,.
+E07000012,    South Cambridgeshire,97,80,17,9,4,4,c,.
+E10000012,  Essex,893,791,103,44,18,16,8,2
+E07000066,    Basildon,113,100,13,3,c,c,2,.
+E07000067,    Braintree,92,84,8,7,3,3,.,c
+E07000068,    Brentwood,47,42,5,c,c,.,.,.
+E07000069,    Castle Point,54,54,c,.,.,.,.,.
+E07000070,    Chelmsford,108,93,15,4,3,c,.,.
+E07000071,    Colchester,124,99,25,14,5,4,5,c
+E07000072,    Epping Forest,81,70,10,3,2,c,.,c
+E07000073,    Harlow,53,39,13,6,c,5,.,.
+E07000074,    Maldon,37,35,2,c,c,.,.,.
+E07000075,    Rochford,53,51,1,c,.,.,c,.
+E07000076,    Tendring,80,75,5,3,2,1,.,.
+E07000077,    Uttlesford,53,48,5,c,c,c,.,.
+E10000015,  Hertfordshire,744,606,138,61,24,22,14,c
+E07000095,    Broxbourne,63,51,12,7,3,c,3,c
+E07000096,    Dacorum,94,85,10,7,2,2,2,.
+E07000242,    East Hertfordshire,92,82,10,5,3,1,c,.
+E07000098,    Hertsmere,64,45,19,8,3,c,3,c
+E07000099,    North Hertfordshire,81,74,7,3,2,1,.,.
+E07000240,    St Albans20,91,75,16,8,4,3,.,.
+E07000243,    Stevenage,56,49,7,3,2,c,.,.
+E07000102,    Three Rivers,57,42,15,3,c,c,c,.
+E07000103,    Watford,64,40,23,12,3,7,3,.
+E07000241,    Welwyn Hatfield21,81,63,19,6,2,3,c,.
+E10000020,  Norfolk,524,462,62,38,13,19,6,c
+E07000143,    Breckland,79,66,13,11,3,7,2,.
+E07000144,    Broadland,75,69,6,4,2,c,c,.
+E07000145,    Great Yarmouth,58,54,4,3,c,2,.,.
+E07000146,    King's Lynn and West Norfolk,85,72,13,8,3,5,c,.
+E07000147,    North Norfolk,54,52,2,c,c,.,.,.
+E07000148,    Norwich,95,77,18,10,3,6,2,.
+E07000149,    South Norfolk,77,72,6,3,c,.,1,c
+E10000029,  Suffolk,437,384,53,30,10,16,4,c
+E07000200,    Babergh,52,48,5,3,1,1,1,.
+E07000201,    Forest Heath,38,25,12,8,c,7,.,.
+E07000202,    Ipswich,87,71,16,9,4,4,1,.
+E07000203,    Mid Suffolk,58,54,3,1,1,.,.,.
+E07000204,    St Edmundsbury,68,62,6,4,c,2,c,.
+E07000205,    Suffolk Coastal,70,60,9,3,1,1,.,c
+E07000206,    Waveney,65,64,2,c,c,.,c,.
+E12000007,London,"6,070","3,328","2,734",875,429,220,207,19
+E13000001,Inner London,"2,591","1,377","1,211",388,258,64,61,6
+E09000007,  Camden,182,94,88,25,18,4,2,c
+E09000001,  City of London22,:,:,:,:,:,:,:,:
+E09000012,  Hackney,206,115,91,29,25,3,.,1
+E09000013,  Hammersmith and Fulham,127,65,61,23,18,3,3,.
+E09000014,  Haringey,196,105,91,38,17,13,7,c
+E09000019,  Islington,179,103,75,19,13,4,2,.
+E09000020,  Kensington and Chelsea,104,42,62,23,20,2,1,c
+E09000022,  Lambeth,245,152,92,30,24,4,2,c
+E09000023,  Lewisham,216,137,79,25,14,5,7,.
+E09000025,  Newham,251,103,149,45,12,9,25,.
+E09000028,  Southwark,233,131,102,26,20,2,3,c
+E09000030,  Tower Hamlets,236,117,119,33,23,7,3,c
+E09000032,   Wandsworth,236,136,100,38,25,7,6,.
+E09000033,   Westminster,181,78,102,33,29,3,.,c
+E13000002,Outer London,"3,478","1,951","1,524",487,171,157,146,13
+E09000002,  Barking and Dagenham,138,62,75,21,4,5,11,c
+E09000003,  Barnet,258,140,118,45,19,16,9,c
+E09000004,  Bexley,157,117,40,18,4,10,4,1
+E09000005,  Brent,221,88,133,49,18,14,17,c
+E09000006,  Bromley,210,145,64,20,10,5,6,.
+E09000008,  Croydon,252,141,109,32,16,11,5,c
+E09000009,  Ealing,223,100,122,41,18,16,6,c
+E09000010,  Enfield,219,116,103,26,8,3,13,3
+E09000011,  Greenwich,196,109,87,27,13,7,6,.
+E09000015,  Harrow,157,66,91,31,6,10,15,c
+E09000016,  Havering,161,132,30,8,3,3,2,.
+E09000017,  Hillingdon,200,99,101,23,8,9,5,c
+E09000018,  Hounslow,182,84,98,20,10,9,c,c
+E09000021,  Kingston upon Thames,118,78,40,12,9,3,c,.
+E09000024,  Merton,139,77,62,20,7,5,7,c
+E09000026,  Redbridge,202,92,110,33,4,9,19,1
+E09000027,  Richmond upon Thames,125,89,36,13,7,3,2,c
+E09000029,  Sutton,132,97,35,11,2,3,5,c
+E09000031,  Waltham Forest,189,120,69,37,6,16,15,c
+E12000008,South East,"5,574","4,603",970,367,185,120,52,10
+E06000036,  Bracknell Forest,77,61,16,6,3,2,1,0~
+E06000043,  Brighton and Hove,206,162,44,22,15,7,c,c
+E06000046,  Isle of Wight,76,71,6,2,1,1,c,c
+E06000035,  Medway,176,154,22,8,3,2,2,c
+E06000042,  Milton Keynes,171,122,49,17,5,7,4,.
+E06000044,  Portsmouth,145,114,31,11,4,6,2,c
+E06000038,  Reading,111,74,38,14,6,6,2,c
+E06000039,  Slough,95,46,50,11,3,6,3,.
+E06000045,  Southampton,173,122,51,24,9,13,2,.
+E06000037,  West Berkshire,97,81,15,8,3,4,1,c
+E06000040,  Windsor and Maidenhead,91,68,23,8,5,2,1,.
+E06000041,  Wokingham,100,80,20,7,4,2,0~,c
+E10000002,  Buckinghamshire,328,270,58,20,10,6,5,.
+E07000004,    Aylesbury Vale,122,103,19,10,5,3,2,.
+E07000005,    Chiltern,55,46,10,3,1,1,c,.
+E07000006,    South Bucks,43,32,11,1,1,.,.,.
+E07000007,    Wycombe,108,89,19,6,2,2,2,.
+E10000011,  East Sussex,317,280,37,20,13,7,c,c
+E07000061,    Eastbourne,60,50,10,5,3,1,.,.
+E07000062,    Hastings,57,47,10,5,4,c,.,.
+E07000063,    Lewes,59,52,7,3,2,1,.,.
+E07000064,    Rother,52,49,2,2,1,c,.,.
+E07000065,    Wealden,90,82,8,6,3,2,c,c
+E10000014,  Hampshire,820,734,86,30,17,6,5,1
+E07000084,    Basingstoke and Deane,111,97,15,6,4,c,2,.
+E07000085,    East Hampshire,69,63,6,c,c,.,.,.
+E07000086,    Eastleigh,81,73,8,1,1,.,.,.
+E07000087,    Fareham,70,64,6,2,2,c,.,c
+E07000088,    Gosport,55,52,3,c,c,.,c,.
+E07000089,    Hart,54,48,6,2,1,c,c,.
+E07000090,    Havant,73,67,6,4,2,c,.,c
+E07000091,    New Forest,97,88,9,6,2,1,2,.
+E07000092,    Rushmoor,62,51,11,c,c,.,.,c
+E07000093,    Test Valley,75,65,9,3,c,2,c,.
+E07000094,    Winchester,74,67,6,3,2,c,.,.
+E10000016,  Kent ,942,819,123,50,21,15,13,3
+E07000105,    Ashford,80,73,7,4,3,c,.,.
+E07000106,    Canterbury,104,94,10,3,2,c,.,.
+E07000107,    Dartford,70,58,12,3,c,.,2,.
+E07000108,    Dover,67,60,7,2,2,.,.,c
+E07000112,    Folkestone and Hythe,64,55,9,c,c,c,.,.
+E07000109,    Gravesham,66,55,11,6,c,5,.,.
+E07000110,    Maidstone,104,87,17,6,.,c,4,.
+E07000111,    Sevenoaks,70,55,15,9,5,3,.,.
+E07000113,    Swale,86,78,8,6,1,2,3,.
+E07000114,    Thanet,81,77,4,2,c,.,c,c
+E07000115,    Tonbridge and Malling,80,68,12,3,.,c,c,c
+E07000116,    Tunbridge Wells,70,59,11,4,3,.,c,c
+E10000025,  Oxfordshire,420,337,83,37,23,9,5,c
+E07000177,    Cherwell,90,74,15,8,4,3,2,.
+E07000178,    Oxford,106,71,34,12,10,2,c,.
+E07000179,    South Oxfordshire,84,74,10,4,2,2,.,.
+E07000180,    Vale of White Horse,77,64,13,6,3,c,1,c
+E07000181,    West Oxfordshire,64,53,11,8,5,2,c,.
+E10000030,  Surrey,725,566,159,47,26,17,3,c
+E07000207,    Elmbridge,82,62,20,5,3,2,.,.
+E07000208,    Epsom and Ewell,47,36,11,3,2,1,.,.
+E07000209,    Guildford,99,77,21,7,3,2,c,c
+E07000210,    Mole Valley,50,46,3,2,2,c,.,.
+E07000211,    Reigate and Banstead,88,73,16,3,c,2,.,.
+E07000212,    Runnymede,57,42,15,6,5,c,c,.
+E07000213,    Spelthorne,62,41,21,5,2,3,c,.
+E07000214,    Surrey Heath,55,40,15,4,2,c,c,.
+E07000215,    Tandridge,54,45,9,2,2,c,.,.
+E07000216,    Waverley,70,64,6,1,1,.,.,.
+E07000217,    Woking,62,39,23,8,4,4,.,.
+E10000032,  West Sussex,503,443,60,25,16,3,3,3
+E07000223,    Adur,38,36,3,c,.,.,.,c
+E07000224,    Arun,86,78,9,4,c,c,2,c
+E07000225,    Chichester,68,61,7,4,3,.,.,c
+E07000226,    Crawley,73,58,16,7,6,c,.,c
+E07000227,    Horsham,82,72,10,4,3,c,.,.
+E07000228,    Mid Sussex,91,84,7,4,2,c,c,c
+E07000229,    Worthing,65,55,10,2,c,c,c,.
+E12000009,South West,"3,331","2,928",403,192,90,76,21,4
+E06000022,  Bath and North East Somerset,120,100,19,8,4,3,1,c
+E06000028,  Bournemouth,128,97,31,17,7,6,3,1
+E06000023,"  Bristol, City of",320,260,59,27,16,10,1,c
+E06000052,  Cornwall23,327,309,18,9,6,2,1,.
+E06000053,  Isles of Scilly24,:,:,:,:,:,:,:,:
+E06000024,  North Somerset,124,110,14,7,3,4,1,c
+E06000026,  Plymouth,167,150,17,9,3,4,2,1
+E06000029,  Poole,88,74,14,6,3,2,1,c
+E06000025,  South Gloucestershire,173,155,19,9,4,4,1,c
+E06000030,  Swindon,139,104,35,10,3,6,1,.
+E06000027,  Torbay,76,69,7,4,2,2,1,.
+E06000054,  Wiltshire25,292,262,30,16,9,5,1,c
+E10000008,  Devon,451,410,42,23,8,10,4,c
+E07000040,    East Devon,75,67,8,3,1,1,c,c
+E07000041,    Exeter,89,74,15,10,2,6,2,c
+E07000042,    Mid Devon,47,43,4,3,c,c,2,.
+E07000043,    North Devon,54,52,3,c,c,.,.,.
+E07000044,    South Hams,47,44,2,2,c,c,.,.
+E07000045,    Teignbridge,74,68,6,3,1,2,.,.
+E07000046,    Torridge,37,36,2,.,.,.,.,.
+E07000047,    West Devon,29,26,2,c,c,.,.,.
+E10000009,  Dorset,230,209,21,9,5,2,1,c
+E07000048,    Christchurch,28,24,4,1,c,c,.,c
+E07000049,    East Dorset,48,43,5,2,1,c,.,.
+E07000050,    North Dorset,39,34,4,2,2,.,c,.
+E07000051,    Purbeck,26,22,3,2,c,c,.,.
+E07000052,    West Dorset,54,51,2,1,c,c,.,.
+E07000053,    Weymouth and Portland,36,35,1,1,c,.,c,.
+E10000013,  Gloucestershire,379,328,50,21,10,10,c,c
+E07000078,    Cheltenham,73,56,17,5,2,3,.,.
+E07000079,    Cotswold,51,46,5,3,2,c,.,.
+E07000080,    Forest of Dean,49,46,3,3,c,2,.,.
+E07000081,    Gloucester,81,69,13,7,2,3,c,c
+E07000082,    Stroud,73,69,3,c,c,c,.,.
+E07000083,    Tewkesbury,52,42,9,3,2,1,c,.
+E10000027,  Somerset,318,290,27,16,7,8,c,.
+E07000187,    Mendip,66,63,3,2,1,.,c,.
+E07000188,    Sedgemoor,72,61,10,7,1,6,.,.
+E07000189,    South Somerset,94,85,10,6,4,1,c,.
+E07000190,    Taunton Deane,68,64,4,1,c,c,.,.
+E07000191,    West Somerset,17,17,c,c,c,.,.,.
+,,,,,,,,,
+W92000004,Wales,"1,910","1,747",163,62,28,27,6,2
+W06000001,    Isle of Anglesey / Ynys Môn,40,38,1,1,0~,c,c,0~
+W06000002,    Gwynedd / Gwynedd,74,70,4,1,1,c,.,c
+W06000003,    Conwy / Conwy,65,61,5,2,0~,1,0~,.
+W06000004,    Denbighshire / Sir Ddinbych,55,51,4,1,1,1,.,.
+W06000005,    Flintshire / Sir y Fflint,93,87,6,3,1,2,.,.
+W06000006,    Wrexham / Wrecsam,86,79,7,5,2,3,c,c
+W06000023,    Powys / Powys,74,71,3,1,1,0~,c,.
+W06000008,    Ceredigion / Ceredigion,48,44,4,2,1,2,.,.
+W06000009,    Pembrokeshire / Sir Benfro,70,67,3,1,1,c,.,c
+W06000010,    Carmarthenshire / Sir Gaerfyrddin,109,102,7,4,1,2,c,c
+W06000011,    Swansea / Abertawe,155,133,22,7,3,3,1,c
+W06000012,    Neath Port Talbot / Castell-nedd Port Talbot,86,81,5,2,1,1,0~,.
+W06000013,    Bridgend / Pen-y-bont ar Ogwr,88,82,5,1,1,c,.,c
+W06000014,    Vale of Glamorgan / Bro Morgannwg,77,71,6,2,2,0~,c,c
+W06000015,    Cardiff / Caerdydd,247,203,44,10,5,4,1,.
+W06000016,    Rhondda Cynon Taf / Rhondda Cynon Taf,149,143,7,4,2,1,.,0~
+W06000024,    Merthyr Tydfil / Merthyr Tudful,36,33,3,2,0~,1,0~,.
+W06000018,    Caerphilly / Caerffili,112,107,5,3,1,1,c,c
+W06000019,    Blaenau Gwent / Blaenau Gwent,43,42,2,1,0~,1,c,.
+W06000020,    Torfaen / Torfaen,56,53,3,1,1,0~,c,.
+W06000021,    Monmouthshire / Sir Fynwy,53,50,4,2,1,0~,c,c
+W06000022,    Newport / Casnewydd,93,80,14,6,2,3,1,c
+,,,,,,,,,
+S92000003,Scotland,"3,442","3,023",418,197,71,109,13,4
+N92000002,Northern Ireland,"1,168","1,062",104,68,30,34,4,c
