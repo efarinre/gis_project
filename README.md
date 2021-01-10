@@ -1,4 +1,4 @@
-# gis_project
+# GIS
 The original datasets were downloaded locally from the ONS links to follow. To deal with the inconsistent and complicated formats that the data comes in, the relevant pages/sections were manually copied into new files, which were saved are csv files and later imported, cleaned, filtered, transformed, and analysed in RStudio.
 
 https://www.ons.gov.uk/peoplepopulationandcommunity/populationandmigration/internationalmigration/datasets/populationoftheunitedkingdombycountryofbirthandnationality
